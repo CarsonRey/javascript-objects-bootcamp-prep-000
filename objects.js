@@ -1,3 +1,3 @@
 var playlist = {};
 
-Object.assign ({}, playlist, {Drake:['Nonstop']});
+Object.assign({}, playlist, {Drake:['Nonstop']});
