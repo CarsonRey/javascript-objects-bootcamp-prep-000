@@ -1,3 +1,3 @@
-var playlist = {new Object({});}
+var playlist = {
+  Drake: 'Nonstop'};
 
-Object.assign({}, playlist, {Drake:['Nonstop']});
